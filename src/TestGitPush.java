@@ -6,6 +6,7 @@ public class TestGitPush {
 		System.out.println("Hello,World");
 		System.out.println("Hey, Siri");
 		System.out.println("OK, GOOGLE");
+		System.out.println("OK, GOOGLE");
 
 	}
 
